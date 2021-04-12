@@ -5,3 +5,5 @@ commit in master branch
 commit in feature2.
 
 commit2 in feature2.
+
+commit 3 in master.
