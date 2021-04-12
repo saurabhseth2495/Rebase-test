@@ -1,3 +1,5 @@
 testing for rebase.
 
 commit in master branch
+
+commit in feature2.
